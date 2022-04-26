@@ -5,3 +5,9 @@ nuxtStudy DummyAPI
 
 ## Git commit user issue
 ## Git commit user issue
+
+```
+git config --local user.name "Your Name"
+git config --local user.email "Your Email"
+
+```
