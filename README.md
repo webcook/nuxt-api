@@ -1,0 +1,2 @@
+# nuxt-api
+nuxtStudy DummyAPI
